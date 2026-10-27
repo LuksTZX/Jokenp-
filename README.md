@@ -28,15 +28,6 @@ Jogo de pedra, papel e tesoura para o terminal, feito em Java. Você joga contra
 
 Jogadas iguais resultam em empate e ninguém pontua.
 
-## Como rodar
-
-Pré-requisito: [JDK](https://adoptium.net/) 8 ou superior instalado.
-
-```bash
-javac Main.java
-java Main
-```
-
 ## Exemplo de execução
 
 ```
