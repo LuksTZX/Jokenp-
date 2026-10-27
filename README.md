@@ -48,7 +48,3 @@ Placar: voce 1 X 0 Computador
 - `switch` e condicionais compostas (`&&`, `||`)
 - Contagem de placar com variáveis
 
-## Possíveis melhorias
-
-- Perguntar se quer jogar outra partida ao final
-- Escolher quantos pontos são necessários para vencer
